@@ -1,17 +1,17 @@
 [{
-        "username": "john",
-        "firstName": "John",
-        "lastName": "Doe",
-        "gender": "Male",
-        "profileURL": "image/male.png",
-        "email": "john.doe@example.com"
+        "username": "Cliff",
+        "firstName": "Jones",
+        "lastName": "Beth",
+        "gender": "Female",
+        "profileURL": "image/female.jpg",
+        "email": "cliff@example.com"
     },
     {
-        "username": "jane",
-        "firstName": "Jane",
-        "lastName": "Doe",
-        "gender": "Female",
-        "profileURL": "image/female.png",
-        "email": "jane.doe@example.com"
+        "username": "Gray",
+        "firstName": "Grayhat",
+        "lastName": "Harun",
+        "gender": "male",
+        "profileURL": "image/male.jpg",
+        "email": "Gray@example.com"
     }
 ]
