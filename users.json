@@ -9,7 +9,7 @@
     {
         "username": "jane",
         "firstName": "Jane",
-        "lastName": 'Jelimo",
+        "lastName": "Jelimo",
         "gender": "Female",
         "profileURL": "img/female.png",
         "email": "jane.doe@example.com"
